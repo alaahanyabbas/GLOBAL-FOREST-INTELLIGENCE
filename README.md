@@ -3,8 +3,6 @@
 
 ## 📌 Project Overview
 
-![Uploading 1.png…]()
-
 **Global Forest Intelligence** is a data analytics project focused on exploring global forest and tree-cover changes using prepared **Global Forest Watch** data.
 
 The project analyzes tree cover loss across **226 countries from 2001 to 2025**, together with forest-loss drivers, carbon emissions and removals, primary forest loss, and urban tree biodiversity (GUTS).
